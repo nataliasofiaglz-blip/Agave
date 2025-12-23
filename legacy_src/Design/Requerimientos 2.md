@@ -1,0 +1,3 @@
+La pagina web debe tener una URL fija en donde cada 15 min se actualice un QR que el usuario pueda visitar desde su telefono cuando el usuario vaya al sitio y tenga iniciada su sesion, se debe registar en su perfil en un dashboard de seguimiento con hora de entrada al club deportivo.
+
+Si el usuario visita el QR pero no tiene su sesion iniciada se debe solicitar iniciar sesion  o registrarse y posteriormente registrar su visita.

@@ -7,7 +7,7 @@ export const videos = [
         category: 'HIIT',
         level: 'Avanzado',
         image: 'https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=1000&auto=format&fit=crop',
-        videoUrl: 'https://www.youtube.com/embed/ml6cT4AZdqI' // Placeholder
+        videoUrl: 'https://www.youtube.com/embed/ml6cT4AZdqI'
     },
     {
         id: 'v2',
@@ -16,7 +16,7 @@ export const videos = [
         duration: 20,
         category: 'Yoga',
         level: 'Principiante',
-        image: 'https://images.unsplash.com/photo-1544367563-12123d8965cd?q=80&w=1000&auto=format&fit=crop',
+        image: 'https://img.freepik.com/foto-gratis/mujeres-haciendo-ejercicio-gimnasio_23-2148284982.jpg',
         videoUrl: 'https://www.youtube.com/embed/sTANio_2E0Q'
     },
     {
